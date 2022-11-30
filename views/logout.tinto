@@ -1,0 +1,27 @@
+<head>
+    #title#
+</head>
+
+<body>
+
+    <header>
+        #message#
+    </header>
+
+    <nav>
+        <a href="/">Home</a> |
+        <a href="/login">Login</a> |
+        <a href="/logout">Logout</a> |
+        <a href="/register">Register</a> |
+        <a href="/user">User</a> |
+        <a href="/user/account">User Account</a> |
+        <a href="/user/compliance">User Compliance</a> |
+        <a href="/user/friends">User Friends</a> |
+        <a href="/user/messages">User Messages</a> |
+        <a href="/user/history">User History</a>
+    </nav>
+
+
+    #content#
+
+</body>
